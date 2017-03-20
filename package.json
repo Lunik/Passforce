@@ -1,6 +1,6 @@
 {
   "name": "passforce",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Show you the strengh of your password",
   "main": "index.js",
   "scripts": {
