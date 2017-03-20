@@ -1,0 +1,16 @@
+{
+  "name": "passforce",
+  "version": "0.0.1",
+  "description": "Show you the strengh of your password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "command-line-usage": "^4.0.0",
+    "prompt-password": "^0.1.1"
+  }
+}
